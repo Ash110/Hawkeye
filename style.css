@@ -1,0 +1,31 @@
+#header-top{
+    position: relative;
+    left: -880px;
+    text-align: right;
+    top: 120px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 28.5px;
+    color: black;
+}
+  
+#header{
+    position: relative;
+    left: -780px;
+    text-align: right;
+    top: 20px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 85px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#topbar{
+    width:2000px;
+    height:100px;
+    background:black;
+    position: relative;
+    left: -20px;
+    text-align: right;
+    top: -380px; 
+}
